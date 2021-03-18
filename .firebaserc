@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ibox-aa9ea"
+  }
+    "targets": {
+    "ibox-aa9ea": {
+      "hosting": {
+        "try": [
+          "ibox"
+        ]
+      }
+    }
+  }
+}
